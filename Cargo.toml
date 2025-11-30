@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "compound-datatypes",
+    "datatypes",
+    "helloproject",
+]
+resolver = "2"
