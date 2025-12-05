@@ -11,5 +11,9 @@ name = "datatypes"
 version = "0.1.0"
 
 [[package]]
+name = "functions"
+version = "0.1.0"
+
+[[package]]
 name = "helloproject"
 version = "0.1.0"
