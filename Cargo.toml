@@ -1,7 +1,7 @@
 [workspace]
 members = [
-    "compound-datatypes",
+    "compound-datatypes", "controlflow",
     "datatypes", "functions",
-    "helloproject", "mutability", "ownership",
+    "helloproject", "mutability", "ownership", "shadowing",
 ]
 resolver = "2"

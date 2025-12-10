@@ -7,6 +7,10 @@ name = "compound-datatypes"
 version = "0.1.0"
 
 [[package]]
+name = "controlflow"
+version = "0.1.0"
+
+[[package]]
 name = "datatypes"
 version = "0.1.0"
 
@@ -24,4 +28,8 @@ version = "0.1.0"
 
 [[package]]
 name = "ownership"
+version = "0.1.0"
+
+[[package]]
+name = "shadowing"
 version = "0.1.0"
