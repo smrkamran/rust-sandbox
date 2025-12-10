@@ -2,6 +2,6 @@
 members = [
     "compound-datatypes",
     "datatypes", "functions",
-    "helloproject",
+    "helloproject", "ownership",
 ]
 resolver = "2"
