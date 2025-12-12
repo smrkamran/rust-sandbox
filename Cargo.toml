@@ -2,6 +2,6 @@
 members = [
     "compound-datatypes", "controlflow",
     "datatypes", "functions",
-    "helloproject", "mutability", "ownership", "shadowing",
+    "helloproject", "mutability", "ownership", "shadowing", "structs",
 ]
 resolver = "2"
